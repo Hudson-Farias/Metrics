@@ -50,9 +50,9 @@ Instale as versões especificadas
 Inicie o Backend e o Frontend
 
 ```bash
-  cd /backend
+  cd backend
   python -m venv venv
-  source venv/bin/activate ## ou .\venv\Scripts\Activate
+  source ./venv/bin/activate ## ou .\venv\Scripts\Activate
   pip install -r requirements.txt
   uvicorn main:app --reload
 ```
