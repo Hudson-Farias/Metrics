@@ -56,11 +56,11 @@ Inicie o Backend e o Frontend
   pip install -r requirements.txt
   uvicorn main:app --reload
 ```
-O backend estará acessível em http://localhost:8000.
+O backend estará acessível em http://localhost:8000 e https://tt-metrics.onrender.com.
 
 ```bash
   cd ../frontend
   yarn install
   npm run serve
 ```
-O frontend estará disponível em http://localhost:8080.
+O frontend estará disponível em http://localhost:8080 e https://tt-metrics.vercel.app.
