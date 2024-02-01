@@ -1,4 +1,4 @@
-# TT-Metrics - Análise de Métricas MRR e Churn Rate
+# Metrics - Análise de Métricas MRR e Churn Rate
 
 O TT-Metrics é uma aplicação fullstack desenvolvida para a análise de métricas MRR (Monthly Recurring Revenue) e Churn Rate. Este projeto é dividido em duas partes principais: o frontend, construído em Vue.js, e o backend, implementado com FastAPI. As pastas frontend e backend contêm os respectivos códigos fonte.
 
